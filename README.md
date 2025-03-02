@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gulam-it0405" alt="gulam-it0405" /></a> </p>
 
-- 🔭 I’m currently working on **C Projects**
+- 🔭 I’m currently working on **A GYM WEBSITE**
 
-- 🌱 I’m currently learning **Core Programming**
+- 🌱 I’m currently learning **IT Related Things**
 
 - 📫 How to reach me **memongulam45@gmail.com**
 
