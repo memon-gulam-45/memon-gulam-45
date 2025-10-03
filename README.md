@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I’m Gulam Mohyudin</h1>
-<h3 align="center">💻 Diploma IT Student | 🧠 Problem Solver | 🚀 Future AI Engineer</h3>
+<h3 align="center">💻 IT Student | 🧠 Problem Solver | 🚀 Future AI Engineer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A9A9A9&center=true&width=900&lines=Exploring+The+World+Of+AI+And+Machine+Learning;Writing+Clean+And+Logical+Code;Aspiring+AI+Engineer+%7C+Future+Data+Scientist;Solving+Real-World+Problems+Through+Tech;Focused+On+Learning+By+Building;Logical+Thinking+Meets+Creative+UI;Tech-Driven+Mindset+With+Future+Goals;Learning+Today+To+Build+Tomorrow;Every+Line+Of+Code+With+Purpose;Growth+Through+Consistency+And+Code" />
