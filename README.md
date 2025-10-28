@@ -62,7 +62,7 @@
 ---
 
 > ⚡ *This Profile Is Under Constant Learning & Improvement — Just Like Its Creator.*  
-> 🎓 *Proudly Crafted By G.H.M, Future AI Engineer From Gujarat IN.*
+> 🎓 *Proudly Crafted By G.H.M, Future AI Integrated Developer From Gujarat IN.*
 
 ---
 
