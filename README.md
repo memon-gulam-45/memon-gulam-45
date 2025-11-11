@@ -2,7 +2,7 @@
 <h3 align="center">💻 Full Stack Web Developer | 🚀 Building Scalable & User-Centric Web Solutions</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A9A9A9&center=true&width=900&lines=Full+Stack+Web+Developer+(MERN)+Specializing+in+Modern+Web+Applications;Transforming+Ideas+Into+Efficient+and+Beautiful+Web+Solutions;Focused+on+Performance,+Scalability+and+Clean+Code;Continuous+Learner+With+a+Builder's+Mindset;Delivering+User-Focused+Digital+Experiences" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A9A9A9&center=true&width=900&lines=Full+Stack+Web+Developer+(MERN);Specializing+in+Modern+Web+Applications;Transforming+Ideas+Into+Efficient+and+Beautiful+Web+Solutions;Focused+on+Performance,+Scalability+and+Clean+Code;Continuous+Learner+With+a+Builder's+Mindset;Delivering+User-Focused+Digital+Experiences" />
 </p>
 
 ---
