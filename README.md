@@ -13,7 +13,7 @@
 
 ### 👨‍💻 About Me
 
-I’m a passionate **Full Stack Web Developer** skilled in building **responsive**, **scalable**, and **real-world web applications** using the **MERN stack**.  
+I’m a passionate **Full Stack Web Developer** specializing in building **responsive**, **scalable**, and **real-world web applications** using the **MERN Stack** and modern **JavaScript libraries**. 
 I believe in **writing clean, maintainable code** and turning **creative ideas into functional, impactful digital solutions**.
 
 - 🌱 Currently deepening my skills in **React**, **Node.js**, and **MongoDB**
@@ -65,6 +65,7 @@ I believe in **writing clean, maintainable code** and turning **creative ideas i
 ---
 
 > ⚡ *This profile reflects continuous growth, learning, and building.*  
+
 > 🎓 *Crafted by G.H.M — Full Stack Developer from Gujarat, India.*
 
 ---
