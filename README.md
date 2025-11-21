@@ -7,7 +7,6 @@
 
 ---
 
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=memon-gulam-45&label=Profile+Views&color=0e75b6&style=flat-square" alt="Profile Views" />
 </p>
@@ -22,7 +21,6 @@ I believe in **writing clean, maintainable code** and turning **creative ideas i
 - ⚙️ Strong focus on **logic, UI design, and user experience**
 - 📫 Reach me at: **memongulam45@gmail.com**
 - 🔗 Connect on [LinkedIn](https://www.linkedin.com/in/gulam-mohyudin-memon-93b804331)
-
 
 
 ---
