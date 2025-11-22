@@ -53,7 +53,6 @@ I believe in **writing clean, maintainable code** and turning **creative ideas i
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=memon-gulam-45&show_icons=true&theme=radical&border_radius=10" alt="GitHub Stats" />
-  
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=memon-gulam-45&theme=radical&border_radius=10" alt="GitHub Streak" />
 </p>
 
@@ -66,7 +65,6 @@ I believe in **writing clean, maintainable code** and turning **creative ideas i
 ---
 
 > ⚡ *This profile reflects continuous growth, learning, and building.*  
-
 > 🎓 *Crafted by G.H.M — Full Stack Developer from Gujarat, India.*
 
 ---
