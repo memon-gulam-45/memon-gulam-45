@@ -27,6 +27,7 @@ I believe in **writing clean, maintainable code** and turning **creative ideas i
 
 ---
 
+
 ### 🛠️ Tech Stack
 
 <p align="center">
@@ -41,16 +42,13 @@ I believe in **writing clean, maintainable code** and turning **creative ideas i
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" width="40" height="40"/>
 </p>
 
-
 ---
-
 
 ### 🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=memon-gulam-45&theme=darkhub&row=1&column=6" />
 </p>
-
 
 ---
 
