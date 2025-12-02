@@ -24,7 +24,6 @@ I believe in **writing clean, maintainable code** and turning **creative ideas i
 
 ---
 
-
 ### 🛠️ Tech Stack
 
 <p align="center">
