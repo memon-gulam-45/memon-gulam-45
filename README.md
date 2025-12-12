@@ -40,7 +40,6 @@ I believe in **writing clean, maintainable code** and turning **creative ideas i
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" width="40" height="40"/>
 </p>
 
-
 ---
 
 ### 🏆 GitHub Trophies
