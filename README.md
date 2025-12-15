@@ -41,7 +41,7 @@ I focus on **clean code**, **structured architecture**, and **user-focused solut
 ### Tools
 - Git & GitHub  
 - VS Code, Postman / Hoppscotch  
-- Deployment: Vercel, Netlify, GitHub Pages  
+- Deployment: Vercel, Netlify, Render, GitHub Pages  
 
 ---
 
