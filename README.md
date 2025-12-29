@@ -9,7 +9,6 @@ React.js | Node.js | Express.js | MongoDB
 
 ---
 
-
 ## About Me
 
 I am an **Aspiring Full-Stack Web Developer** with hands-on experience in building **responsive, scalable, and real-world web applications** using the **MERN stack** and modern JavaScript tools.  
