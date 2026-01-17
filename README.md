@@ -19,7 +19,6 @@ I focus on **clean code**, **structured architecture**, and **user-focused solut
 - Built **15+ web development projects**, including frontend, React-based, and full-stack applications
 - Passionate about problem-solving, UI/UX, and continuous learning
 
-
 ---
 
 ## Technical Skills
