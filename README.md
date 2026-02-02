@@ -58,12 +58,6 @@ I focus on **clean code**, **structured architecture**, and **user-focused solut
 
 ---
 
-## GitHub Activity
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=memon-gulam-45&show_icons=true&theme=default)
-
----
-
 ## Career Goal
 
 To work as a **Full-Stack / Software Engineer**, contributing to **scalable, real-world systems** while continuously improving my engineering skills.
